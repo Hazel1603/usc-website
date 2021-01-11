@@ -143,7 +143,7 @@ const categories = [
     name: 'Communication Channels',
     buttons: [
       {
-        name: 'USChannel on Telegram',
+        name: 'USChannel on Telegramme',
         icon: ['fab', 'telegram'],
         link: 'http://t.me/USPChannel',
         color: 'steelblue'
