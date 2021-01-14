@@ -143,9 +143,15 @@ const categories = [
     name: 'Communication Channels',
     buttons: [
       {
-        name: 'USChannel on Telegramme',
+        name: 'USChannel on Telegram',
         icon: ['fab', 'telegram'],
         link: 'http://t.me/USPChannel',
+        color: 'steelblue'
+      },
+      {
+        name: 'Battle Royale on Telegram',
+        icon: ['fab', 'telegram'],
+        link: 'https://t.me/joinchat/SN9NUuatjjaAS9et',
         color: 'steelblue'
       },
       {
